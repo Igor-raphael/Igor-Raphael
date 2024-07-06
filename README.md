@@ -1,6 +1,14 @@
 # 💫 Sobre mim:
 🧑🏽 Esforçado, Dedicado e Focado, para continuar aprendendo algo novo todo dia. <br><br>✍🏽 No momento procuro aprofundar meus conhecimentos em Java, e com certeza postarei os resultados.<br><br>📚 No momento minhas leituras estão voltadas para livros didáticos sobre JAVA, CRUD e UML.<br><br>✌ E para descontrair um pouco, se tem algo que adoro fazer seria assistir a filmes do Studio Ghibli.
 
+# 👨‍🎓 Formação:
+- Bacharelado em Engenharia de Software em andamento.
+- Cursos e Bootcamps:
+   - CC50 – CIÊNCIA DA COMPUTAÇÃO DE HARVARD;
+   - SANTANDER – BOOTCAMP FULLSTACK JAVA + ANGULAR;
+   - CISCO – CCNAV7: INTRODUÇÃO ÀS REDES;
+   - COD3R – JAVA DO ZERO AO PROFISSIONAL (Em andamento);
+   - ENAP – INTELIGÊNCIA EMOCIONAL.
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/igorcoelho808) 
