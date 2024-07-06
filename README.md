@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🧑🏽 Esforçado e Dedicado, porque a programação gira entorno. <br><br>✍🏽 No momento procuro aprofundar meus conhecimentos em Java, e com certeza postarei os resultados.<br><br>📚 No momento minhas leituras estão voltadas para livros didáticos sobre JAVA, CRUD e UML.<br><br>✌ E para descontrair um pouco, se tem algo que adoro fazer seria assistir a filmes do Studio Ghibli.
+🧑🏽 Esforçado, Dedicado e Focado, para continuar aprendendo algo novo todo dia. <br><br>✍🏽 No momento procuro aprofundar meus conhecimentos em Java, e com certeza postarei os resultados.<br><br>📚 No momento minhas leituras estão voltadas para livros didáticos sobre JAVA, CRUD e UML.<br><br>✌ E para descontrair um pouco, se tem algo que adoro fazer seria assistir a filmes do Studio Ghibli.
 
 
 ## 🌐 Redes Sociais:
