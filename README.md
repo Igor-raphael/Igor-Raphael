@@ -2,7 +2,7 @@
 🧑🏽 Esforçado, Dedicado e Focado, para continuar aprendendo algo novo todo dia. <br><br>✍🏽 No momento procuro aprofundar meus conhecimentos em Java, e com certeza postarei os resultados.<br><br>📚 No momento minhas leituras estão voltadas para livros didáticos sobre Arquitetura de Sistemas, Spring Boot e API RESTful.
 
 # 👨‍🎓 Formação:
-- Bacharelado em Engenharia de Software em andamento.
+- Bacharelando em Engenharia de Software.
 - Cursos e Bootcamps:
    - CC50 – CIÊNCIA DA COMPUTAÇÃO DE HARVARD;
    - SANTANDER – BOOTCAMP FULLSTACK JAVA + ANGULAR;
