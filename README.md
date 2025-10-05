@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🧑🏽 Esforçado, Dedicado e Focado, para continuar aprendendo algo novo todo dia. <br><br>✍🏽 No momento procuro aprofundar meus conhecimentos em Java, e com certeza postarei os resultados.<br><br>📚 No momento minhas leituras estão voltadas para livros didáticos sobre Arquitetura de Sistemas, Spring Boot e API RESTful.
+🧑🏽 Esforçado, Dedicado e Focado, para continuar aprendendo algo novo todo dia. <br><br>✍🏽 Atualmente, estou aprofundando meus conhecimentos em **Java**, **Spring Boot** e **APIs RESTful**, além de me especializar em **Angular** e **Cloud Computing**, com foco em certificações.<br><br>📚 Minhas leituras atuais incluem temas como **Arquitetura de Sistemas**, **boas práticas de código** e **engenharia de software moderna**.
 
 # 👨‍🎓 Formação:
 - Bacharelando em Engenharia de Software.
@@ -13,14 +13,45 @@
    - IFRS – ÉTICA PROFISSIONAL;
    - ORACLE – DESENVOLVIMENTO PESSOAL T6 – ONE;
    - UNESA – PROGRAMAÇÃO DE SISTEMAS DE INFORMAÇÃO;
+   - UNESA - GERÊNCIA DE PROJETOS ED T.I;
+   - UNESA - APLICAÇÃO DA MELHORIA CONTÍNUA;
    - ORACLE – ORACLE NEXT EDUCATION F2 T6 BACK-END.
-
+  
+ 
+# 🏅 Certificações: 
+   - **Oracle Cloud Infrastructure Foundations Associate – Exam 1Z0-1085-25**
+         *(Emitida pela Oracle University)*
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorcoelho808) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:igor.coelho.engsoftware@gmail.com)
 
 # 💻 Pilha de Tecnologias:
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) 	[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 	[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) 	[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=fff)](#)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=fff)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff)](#)
+[![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?logo=icloud&logoColor=fff)](#)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)](#)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff)](#)
 
 # 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Igor-raphael&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
