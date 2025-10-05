@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🧑🏽 Esforçado, Dedicado e Focado, para continuar aprendendo algo novo todo dia. <br><br>✍🏽 Atualmente, estou aprofundando meus conhecimentos em **Java**, **Spring Boot** e **APIs RESTful**, além de me especializar em **Angular** e **Cloud Computing**, com foco em certificações.<br><br>📚 Minhas leituras atuais incluem temas como **Arquitetura de Sistemas**, **boas práticas de código** e **engenharia de software moderna**.
+🧑🏽 **Esforçado**, **Dedicado** e **Focado**, para continuar aprendendo algo novo todo dia. <br><br>✍🏽 Atualmente, estou aprofundando meus conhecimentos em **Java**, **Spring Boot** e **APIs RESTful**, além de me especializar em **Angular** e **Cloud Computing**, com foco em certificações.<br><br>📚 Minhas leituras atuais incluem temas como **Arquitetura de Sistemas**, **boas práticas de código** e **engenharia de software moderna**.
 
 # 👨‍🎓 Formação:
 - Bacharelando em Engenharia de Software.
