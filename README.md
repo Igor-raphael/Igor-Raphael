@@ -19,8 +19,11 @@
   
  
 # 🏅 Certificações: 
-   - **Oracle Cloud Infrastructure Foundations Associate – Exam 1Z0-1085-25**
-         *(Emitida pela Oracle University)*
+   - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** - 
+         *(Emitida pela Oracle)*
+     
+   -  **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** -
+           *(Emitida pela Oracle)*
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorcoelho808) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:igor.coelho.engsoftware@gmail.com)
