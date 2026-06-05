@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🧑🏽 **Esforçado**, **Dedicado** e **Focado**, para continuar aprendendo algo novo todo dia. <br><br>✍🏽 Atualmente, estou aprofundando meus conhecimentos em **Java**, **Spring Boot** e **APIs RESTful**, além de me especializar em **Angular** e **Cloud Computing**, com foco em certificações.<br><br>📚 Minhas leituras atuais incluem temas como **Arquitetura de Sistemas**, **boas práticas de código** e **engenharia de software moderna**.
+🧑🏽 Dev que prefere construir a só estudar. Aprendo melhor com código em produção do que com tutorial. <br><br> ✍🏽 Criador do **VarejoFlex**, SaaS completo que desenvolvi do zero com Java, Spring Boot, Angular e PostgreSQL, resolvendo problemas reais de gestão.<br><br>📚 Meu foco é construir **uma base técnica sólida e aplicada**, arquitetura de sistemas, código limpo e engenharia de software moderna não como teoria, mas como hábito diário.
 
 # 👨‍🎓 Formação:
 - Bacharelando em Engenharia de Software.
